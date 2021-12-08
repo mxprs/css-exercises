@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(252, 161, 161);
+    font-family: Verdana, sans-serif;
+}
+
+#scnd-elem {
+    color: blue;
+    font-size: 36px;
+}
+
+.thrd-elem {
+    font-size: 24px;
+}
+
+#frth-elem {
+    background-color: rgb(227, 255, 183);
+    font-size: 24px;
+    font-weight: bold;
+}
